@@ -6,6 +6,4 @@ Simple and fast water shader. This shader is suitable for scenes where water is 
 
 Unity Asset Store - https://assetstore.unity.com/packages/vfx/shaders/nvjob-water-shader-simple-and-fast-149916
 
-Previous Versions - https://github.com/nvjob/NVJOB-Water-Shader-old-versions
-
 Current version - https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast
