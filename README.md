@@ -11,10 +11,10 @@ Current version - https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast
 -------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.github.io
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-GNU General Public License v3.0
+MIT License - https://github.com/nvjob/NVJOB-Water-Shader-old-versions/blob/master/LICENSE
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.github.io/donate
+Help for this project - https://nvjob.github.io/donate
