@@ -14,8 +14,8 @@ Current version - [nvjob.github.io/unity/nvjob-simple-water-shaders](https://nvj
 **License:** <br>
 [MIT License. Clarification of licenses.](https://nvjob.github.io/mit-license)
 
-**Sorry:** <br>
-This project is currently frozen and cannot be supported or updated due to its complete non-profitability.
+**🖤 Donate:** <br>
+[paypal.me/nvjob](https://paypal.me/nvjob)
 
 -------------------------------------------------------------------
 
